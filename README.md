@@ -10,4 +10,4 @@ Identify each doc by a docID, a document serial number.
 ![](https://github.com/CY-Chang-tw/Information-Retrieval-using-Pyserini/blob/4a27d6bca522fc70ee5c9b5618f67121d17e9a09/docs/posting.png)  
 
   > * Intersecting two postings lists (a “merge” algorithm)  
-  
+  ![](https://github.com/CY-Chang-tw/Information-Retrieval-using-Pyserini/blob/8675ed891c87df43f5c93ec03f72c6eb047da03f/docs/merge.png)
