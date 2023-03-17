@@ -1,6 +1,7 @@
 # :mag_right: Information-Retrieval-using-Pyserini
 Using Pyserini package to cope with Inverted Index, Postings List, and BM25.  
-:pushpin: The reference package is [Here](https://github.com/castorini/pyserini). It's a powerful package! :thumbsup:    
+:pushpin: The reference package is [Here](https://github.com/castorini/pyserini). It's a powerful package! :thumbsup:   
+:tipping_hand_man: My coding exmaple is [Here](https://github.com/CY-Chang-tw/Information-Retrieval-using-Pyserini/blob/a01ab6393a1c6117ab55664a35104587faf969b7/IR.ipynb). The data set is a zh wiki in json format.    
   
     
 
